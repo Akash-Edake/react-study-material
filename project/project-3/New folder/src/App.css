@@ -1,0 +1,25 @@
+.color , .reset{
+  width: 60px;
+  height: 40px;
+  border-radius: 45%;
+  margin: 30px;
+  
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: green;
+}
+.blue{
+  background-color: blue;
+}
+.pink{
+  background-color: pink;
+}
+.btn_grp{
+  margin-left: 25%;
+}
+.img{
+  height: 200px;
+}

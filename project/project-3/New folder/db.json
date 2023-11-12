@@ -1,0 +1,115 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Kulangot",
+      "img": "img/red-male.jpg",
+      "color": "red",
+      "gender": "male",
+      "desc": "salt",
+      "price": "67"
+    },
+    {
+      "id": 2,
+      "title": "Tiktilaok Manok",
+      "img": "img/red-male2.jpg",
+      "color": "red",
+      "gender": "male",
+      "desc": "Salt maalat",
+      "price": "78"
+    },
+    {
+      "id": 3,
+      "title": "Very Nice",
+      "img": "img/red-male3.jpg",
+      "color": "red",
+      "gender": "male",
+      "desc": "Yezyow",
+      "price": "79"
+    },
+    {
+      "id": 4,
+      "title": "Balakubak",
+      "img": "img/blue-male.jpg",
+      "color": "blue",
+      "gender": "male",
+      "desc": "Betsin Maalat",
+      "price": "170"
+    },
+    {
+      "id": 5,
+      "title": "Burnikk",
+      "img": "img/blue-male2.webp",
+      "color": "blue",
+      "gender": "male",
+      "desc": "Betsin Maalat",
+      "price": "270"
+    },
+    {
+      "id": 6,
+      "title": "Sipon Malapot",
+      "img": "img/red-female.jpg",
+      "color": "red",
+      "gender": "fe",
+      "desc": "Betsin Maalat",
+      "price": "230"
+    },
+    {
+      "id": 7,
+      "title": "Buldit",
+      "img": "img/red-female.jpg2.jpg",
+      "color": "red",
+      "gender": "fe",
+      "desc": "Betsin Maalat",
+      "price": "120"
+    },
+    {
+      "id": 8,
+      "title": "Buldit",
+      "img": "img/green-female.jpg",
+      "color": "green",
+      "gender": "fe",
+      "desc": "Betsin Maalat",
+      "price": "120"
+    },
+    {
+      "id": 9,
+      "title": "Buldit",
+      "img": "img/green-female.jpg2.jpg",
+      "color": "green",
+      "gender": "fe",
+      "desc": "Betsin Maalat",
+      "price": "120"
+    },
+    {
+      "id": 10,
+      "title": "Buldit",
+      "img": "img/pink-female.webp",
+      "color": "pink",
+      "gender": "fe",
+      "desc": "Betsin Maalat",
+      "price": "120"
+    }
+  ],
+  "Postdata": [
+    {
+      "title": "Tiktilaok Manok",
+      "color": "red",
+      "img": "img/red-male2.jpg",
+      "gender": "male",
+      "price": "78",
+      "id": 1
+    },
+    {
+      "title": "Very Nice",
+      "color": "red",
+      "img": "img/red-male3.jpg",
+      "gender": "male",
+      "price": "79",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
